@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Landing Page de serviços hospitalares.
 
-- [Acesse o projeto finalizado, online](https://thegabrielsena.github.io/projeto01/)
+- [Acesse o projeto finalizado, online](https://thegabrielsena.github.io/projeto04---MedCare/)
 
 ## 🪪 Licença
 
